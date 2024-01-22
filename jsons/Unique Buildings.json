@@ -24,7 +24,6 @@
     // Normal Uniques
     {
         "name": "Parliament",
-        "replaces": "Congress",
         "uniqueTo": "Elysium",
         "cost": 100,
         "requiredTech": "Colony Administration",
