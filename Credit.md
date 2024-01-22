@@ -1,4 +1,4 @@
-#Credits
+Credits
 
 75 lines (43 loc) · 3.29 KB
 Credits
