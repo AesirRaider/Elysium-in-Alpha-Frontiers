@@ -1,0 +1,96 @@
+[
+    // Capital Uniques
+    {
+        "name": "Constitution of Elysium",
+        "isWonder": true,
+        "uniqueTo": "Elysium",
+        "cost": 1,
+        "uniques": [
+            "Can only be built [in capital]",
+            "[+1 Culture] from every specialist [in this city]",
+            "Gain a free [Stele of Constitution] [in this city]"
+        ],
+        "quote": "The sovereignty of Elysium resides in the people,and all political power emanates from the people.- Article 2, Constitution of Elysium",
+        "civilopediaText": [
+            {
+                "text": "The sovereignty of Elysium resides in the people, and all political power emanates from the people."
+            },
+            {
+                "text": "- Article 2, Constitution of Elysium"
+            }
+        ]
+    },
+
+    // Normal Uniques
+    {
+        "name": "Parliament",
+        "replaces": "Congress",
+        "uniqueTo": "Elysium",
+        "cost": 100,
+        "requiredTech": "Colony Administration",
+        "uniques": [
+            "[+1 Culture] per [4] population [in all cities]",
+            "[-50]% unhappiness from [Population] [in all cities connected to capital]",
+            "Only available <if [Search for Survivors] is constructed>",
+            "Can only be built [in capital]",
+            "Destroyed when the city is captured"]
+      "quote":"Our Constitution was made only for a moral and religious people. It is wholly inadequate to the government of any other.- John Adams"
+    
+     "civilopediaText": [
+            {
+                "text": "The most terrifying words in the English language are: I'm from the government and I'm here to help. -Ronald Reagen"
+            }
+		]
+    {
+        "name": "Stele of Constitution",
+        "replaces": "Monument",
+        "uniqueTo": "Elysium",
+        "culture": 2,
+        "cost": 40,
+        "hurryCostModifier": 40,
+        "uniques": [
+            "Can only be built [in all cities connected to capital]",
+            "[-50]% unhappiness from [Population] [in this city]",
+            "Destroyed when the city is captured"
+        ],
+        "civilopediaText": [
+            {
+                "text": "This grand monument has the entire Constitution of Elysium inscribed onto it. The law requires every city to have this Stele erect at an easily accessible place."
+            }
+        ]
+    },
+    {
+        "name": "Court",
+        "replaces": "Proxy Office",
+        "uniqueTo": "Elysium",
+        "hurryCostModifier": -25,
+        "culture": 1,
+        "cost": 20,
+        "uniques": [
+            "Remove extra unhappiness from annexed cities",
+            "Only available <in cities with a [Stele of Constitution]>",
+            "Destroyed when the city is captured"
+        ],
+      "requiredTech": "Pioneer Administration"
+        "civilopediaText": [
+			{
+				"text": "We will be a country of generosity and warmth. But we will also be a country of law and order. -Donald Trump"
+			}
+		]
+    },
+    {
+        "name": "Refugee Center",
+        "uniqueTo": "Elysium",
+        "percentStatBonus": { "culture": 15 },
+        "culture": 1,
+        "specialistSlots": { "Administrator": 1 },
+        "maintenance": 1,
+        "requiredTech": "Pioneer Administration"
+      "civilopediaText": [
+			{
+				"text": "A fundamental concern for others in our individual and community lives would go a long way in making the world the better place we so passionately dreamt of.— Nelson Mandela"
+
+			}
+		]
+    }
+]
