@@ -8,7 +8,6 @@
 		"strength": 6,
         "rangedStrength": 8,
         "range": 2,
-		"requiredTech": "Iron Working",
 		"obsoleteTech": "Next-Gen Armaments",
 		"upgradesTo": "Support",
 		"hurryCostModifier": 20,
