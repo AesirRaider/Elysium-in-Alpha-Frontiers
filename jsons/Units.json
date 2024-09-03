@@ -22,7 +22,7 @@
 			}
 		]
 	{
-		"name": "Support",
+	"name": "Support",
     "uniqueTo": "Elysium",
 		"unitType": "Infantry",
 		"cost": 60,
