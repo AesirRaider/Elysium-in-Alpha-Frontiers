@@ -16,12 +16,8 @@
 			"All adjacent units heal [+10] HP when healing <in [{Land} {Friendly Land}] tiles>",
 		],
 "attackSound": "shot"
-"civilopediaText": [
-			{
-				"text": "Standard medical professionals, but with guns!"
-			}
-		]
-	{
+"civilopediaText": [{"text": "Standard medical professionals, but with guns!"}]
+	
 "name": "Support",
 "uniqueTo": "Elysium",
 "unitType": "Infantry",
@@ -34,18 +30,12 @@
 "obsoleteTech": "Exoskeletons",
 "upgradesTo": "NBC Support",
 "hurryCostModifier": 20,
-"uniques": [
-			"All adjacent units heal [+10] HP when healing",
-			"All adjacent units heal [+10] HP when healing <in [{Land} {Friendly Land}] tiles>",
-      "[+10%] Strength bonus for adjacent military units",
-		],
-"attackSound": "shot"
-"civilopediaText": [
-			{
-				"text": "Mainly Auxiliaries, this type of infantry supports the main military forces."
-			}
-		]}
-	{
+"uniques": ["All adjacent units heal [+10] HP when healing","All adjacent units heal [+10] HP when healing <in [{Land} {Friendly Land}] tiles>","[+10%] Strength bonus for adjacent military units",]
+"attackSound": "shot",
+"civilopediaText": [{"text": "Mainly Auxiliaries, this type of infantry supports the main military forces."}]
+    }
+{
+	[
 "name": "NBC Support",
 "uniqueTo": "Elysium",
 "unitType": "Infantry",
@@ -61,10 +51,9 @@
 			"All adjacent units heal [+10] HP when healing <in [Land] [Friendly Land] tiles>",
       "[+15%] Strength bonus for adjacent military units",
 		],
-"attackSound": "shot"
-"civilopediaText": [
-			{
-				"text": "Epitome of support within the military, these infatry units are the conerstone of Elysian combined arms."
-			}
-		]
-]
+"attackSound": "shot",
+"civilopediaText": [{"text": "Epitome of support within the military, these infatry units are the conerstone of Elysian combined arms."}]
+	]
+
+
+
