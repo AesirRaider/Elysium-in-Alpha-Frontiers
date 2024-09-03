@@ -42,7 +42,7 @@
 		]
     {
         "name": "Stele of Constitution",
-        "replaces": "Monument",
+        "replaces": "Memorial",
         "uniqueTo": "Elysium",
         "culture": 2,
         "cost": 40,
@@ -50,7 +50,8 @@
         "uniques": [
             "Can only be built [in all cities connected to capital]",
             "[-50]% unhappiness from [Population] [in this city]",
-            "Destroyed when the city is captured"
+            "Destroyed when the city is captured",
+		"+1 [Faith]"
         ],
         "civilopediaText": [
             {
