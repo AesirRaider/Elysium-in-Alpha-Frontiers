@@ -40,7 +40,6 @@
                 "text": "The most terrifying words in the English language are: I'm from the government and I'm here to help. -Ronald Reagen"
             }
 		]
-    {
         "name": "Stele of Constitution",
         "replaces": "Memorial",
         "uniqueTo": "Elysium",
@@ -50,7 +49,6 @@
         "uniques": [
             "Can only be built [in all cities connected to capital]",
             "[-50]% unhappiness from [Population] [in this city]",
-            "Destroyed when the city is captured",
 		"+1 [Faith]"
         ],
         "civilopediaText": [
