@@ -6,7 +6,7 @@
         "uniqueTo": "Elysium",
         "cost": 1,
         "uniques": [
-            "Can only be built [in capital]",
+            "Can only be built in [in capital] cities",
             "[+1 Culture] from every specialist [in this city]",
             "Gain a free [Stele of Constitution] [in this city]"
         ],
@@ -47,9 +47,9 @@
         "cost": 40,
         "hurryCostModifier": 40,
         "uniques": [
-            "Can only be built [in all cities connected to capital]",
-            "[-50]% unhappiness from [Population] [in this city]",
-		"+1 [Faith]"
+            "Can only be built in [in all cities connected to capital] cities",
+            "-[50]% unhappiness from [Population] [in this city]",
+		"+1 Faith"
         ],
         "civilopediaText": [
             {
