@@ -27,7 +27,7 @@
 "obsoleteTech": "Next-Gen Armaments",
 "upgradesTo": "Support",
 "hurryCostModifier": 20,
-"uniques": ["All adjacent units heal [+10] HP when healing","All adjacent units heal [+10] HP when healing <in [{Friendly} {Land}]> tiles",+[10]% strength for [{military units}]"],
+"uniques": ["All adjacent units heal [+10] HP when healing","All adjacent units heal [+10] HP when healing <in [{Friendly} {Land}]> tiles",+10% strength for [{military units}]"],
 "attackSound": "shot"
 "civilopediaText": [{"text": "Mainly Auxiliaries and Motorized Infantry, these units support the main military."}]
     }
