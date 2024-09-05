@@ -13,41 +13,41 @@
 "hurryCostModifier": 20,
 "uniques": [
       "All adjacent units heal [+10] HP when healing",
-			"All adjacent units heal [+10] HP when healing <in [{Land} {Friendly Land}] tiles>",
+			"All adjacent units heal [+10] HP when healing <in [{Friendly} {Land}]> tiles",
 		],
 "attackSound": "shot"
 "civilopediaText": [{"text": "Standard medical professionals, but with guns!"}]
 	
 "name": "Support",
 "uniqueTo": "Elysium",
-"unitType": "Infantry",
+"unitType": "Armored",
 "cost": 60,
-"movement": 2,
+"movement": 5,
 "strength": 15,
-"rangeStrength":12,
+"rangeStrength":16,
 "range":2,
 "requiredTech": "Next-Gen Armaments",
 "obsoleteTech": "Exoskeletons",
 "upgradesTo": "NBC Support",
 "hurryCostModifier": 20,
-"uniques": ["All adjacent units heal [+10] HP when healing","All adjacent units heal [+10] HP when healing <in [{Land} {Friendly Land}] tiles>","[+10%] Strength bonus for adjacent military units"]
+"uniques": ["All adjacent units heal [+10] HP when healing","All adjacent units heal [+10] HP when healing <in [{Land} {Friendly Land}] tiles>","[+10%] Strength bonus for adjacent [{military units}]"
 "attackSound": "shot",
-"civilopediaText": [{"text": "Mainly Auxiliaries, this type of infantry supports the main military forces."}]
+"civilopediaText": [{"text": "Mainly Auxiliaries and Mechanized Infantry, these types of armored units supports the main military forces."}]
     }
 { 	
 "name": "NBC Support",
 "uniqueTo": "Elysium",
-"unitType": "Infantry",
+"unitType": "Armored",
 "cost": 125,
-"movement": 2,
+"movement": 5,
 "strength": 20,
 "rangedStrength": 24,
 "range": 2,
 "requiredTech": "Exoskeletons",
 "hurryCostModifier": 20,
-"uniques": ["All adjacent units heal [+10] HP when healing","All adjacent units heal [+10] HP when healing <in [Land] [Friendly Land] tiles>",
-      "[+15%] Strength bonus for adjacent military units",
+"uniques": ["All adjacent units heal [+10] HP when healing","All adjacent units heal [+10] HP when healing <in [Friendly] [Land] tiles>",
+      "[+15%] Strength bonus for adjacent [{military units}]",
 		],
 "attackSound": "shot",
-"civilopediaText": [{"text": "Epitome of support within the military, these infatry units are the conerstone of Elysian combined arms."}]
+"civilopediaText": [{"text": "Epitome of support within the military, these armored units are the conerstone of Elysian combined arms."}]
 	} ]
