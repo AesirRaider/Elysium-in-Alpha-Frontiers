@@ -31,7 +31,7 @@
         "uniques": [
             "[+1 Culture] per [4] population [in all cities]",
             "[-50]% unhappiness from [Population] [in all cities connected to capital]",
-            "Can only be built [in capital]",
+            "Can only be built [{in capital}]",
             "Destroyed when the city is captured"]
       "quote":"Our Constitution was made only for a moral and religious people. It is wholly inadequate to the government of any other.- John Adams"
     
@@ -44,13 +44,13 @@
         "replaces": "Memorial",
         "uniqueTo": "Elysium",
         "culture": 2,
+	"faith":1,
         "cost": 40,
         "hurryCostModifier": 40,
         "uniques": [
             "Can only be built in [in all cities connected to capital] cities",
-            "-[50]% unhappiness from [Population] [in this city]",
-		"+1 Faith"
-        ],
+            "-[50]% unhappiness from [{Population}] [{in this city}]",
+	],
         "civilopediaText": [
             {
                 "text": "This grand monument has the entire Constitution of Elysium inscribed onto it. The law requires every city to have this Stele erect at an easily accessible place."
