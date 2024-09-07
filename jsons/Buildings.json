@@ -10,7 +10,7 @@
             "[+1 Culture] from every specialist [in this city]",
             "Gain a free [Stele of Constitution] [in this city]"
         ],
-        "quote": "The sovereignty of Elysium resides in the people,and all political power emanates from the people.- Article 2, Constitution of Elysium",
+        "quote": "Our Constitution was made only for a moral and religious people. It is wholly inadequate to the government of any other.- John Adams",
         "civilopediaText": [
             {
                 "text": "The sovereignty of Elysium resides in the people, and all political power emanates from the people."
@@ -29,11 +29,12 @@
         "cost": 100,
         "requiredTech": "Colony Administration",
         "uniques": [
-            "[+1 Culture] per [4] population [in all cities]",
-            "[-50]% unhappiness from [Population] [in all cities connected to capital]",
+            "[+1 Culture] per [4] population [{in all cities}]",
+            "[-50]% Unhappiness from [{Population}] [{in all cities connected to capital}]",
             "Can only be built [{in capital}]",
             "Destroyed when the city is captured"]
-      "quote":"Our Constitution was made only for a moral and religious people. It is wholly inadequate to the government of any other.- John Adams"
+      "quote":"Machiavelli's teaching would hardly have stood the test of Parliamentary government, for public discussion demands at least the profession of good faith. -John Dalberg-Acton"
+    
     
      "civilopediaText": [
             {
@@ -49,7 +50,7 @@
         "hurryCostModifier": 40,
         "uniques": [
             "Can only be built in [in all cities connected to capital] cities",
-            "-[50]% unhappiness from [{Population}] [{in this city}]",
+            "-[50]% Unhappiness from [{Population}] [{in this city}]",
 	],
         "civilopediaText": [
             {
