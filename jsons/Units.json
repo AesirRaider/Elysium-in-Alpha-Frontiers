@@ -27,7 +27,7 @@
 "obsoleteTech": "Next-Gen Armaments",
 "upgradesTo": "NBC Support",
 "hurryCostModifier": 20,
-"uniques": ["All adjacent units heal [15] HP when healing","[+10]% strength for [{Wounded} {Military} {Land}] units within [1] tiles"],
+"uniques": ["All adjacent units heal [15] HP when healing","[+10]% strength for [{Land} {Military}] units within [1] tiles"],
 "attackSound": "shot"
 "civilopediaText": [{"text": "Mainly Auxiliaries and Mechanized Infantry, these armored units support the main military."}]
     }
@@ -42,7 +42,7 @@
 "range": 2,
 "requiredTech": "Exoskeletons",
 "hurryCostModifier": 20,
-"uniques": ["All adjacent units heal [15] HP when healing","[+15%] Strength bonus for [{Wounded} {Military} {Land}] units within [1] tiles"],
+"uniques": ["All adjacent units heal [15] HP when healing","[+15%] Strength bonus for [{Land} {Military}] units within [1] tiles"],
 "attackSound": "shot",
 "civilopediaText": [{"text": "Epitome of support within the military, these armored units are the conerstone of Elysian combined arms."}]
 }
