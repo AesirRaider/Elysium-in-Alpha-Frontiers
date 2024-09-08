@@ -49,7 +49,7 @@
         "cost": 40,
         "hurryCostModifier": 40,
         "uniques": [
-            "Can only be built in [in all cities connected to capital] cities",
+            "Can only be built in [{in all cities connected to capital}] cities",
             "[-50]% Unhappiness from [{Population}] [{in this city}]",
 	],
         "civilopediaText": [
@@ -67,7 +67,7 @@
         "cost": 20,
         "uniques": [
             "Remove extra unhappiness from annexed cities",
-            "Only available <in cities with a [Stele of Constitution]>",
+            "Only available [{in cities with a [Stele of Constitution]}]",
             "Destroyed when the city is captured"
         ],
       "requiredTech": "Pioneer Administration"
