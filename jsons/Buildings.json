@@ -6,7 +6,7 @@
         "uniqueTo": "Elysium",
         "cost": 1,
         "uniques": [
-            "Can only be built in [in capital] cities",
+            "Can only be built in [{in capital}] cities",
             "[+1 Culture] from every specialist [in this city]",
             "Gain a free [Stele of Constitution] [in this city]"
         ],
@@ -30,7 +30,7 @@
         "requiredTech": "Colony Administration",
         "uniques": [
             "[+1 Culture] per [4] population [{in all cities}]",
-            "[-50]% Unhappiness from [{Population}] [{in all cities connected to capital}]",
+            "[-50]% Unhappiness from [{Population}] [in all cities connected to capital]",
             "Can only be built [{in capital}]",
             "Destroyed when the city is captured"]
       "quote":"Machiavelli's teaching would hardly have stood the test of Parliamentary government, for public discussion demands at least the profession of good faith. -John Dalberg-Acton"
