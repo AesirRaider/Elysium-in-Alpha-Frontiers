@@ -6,7 +6,7 @@
         "uniqueTo": "Elysium",
         "cost": 1,
         "uniques": [
-            "Can only be built in [in capital] cities",
+            "Can only be built [in capital] cities",
             "[+1 Culture] from every specialist [in this city]",
             "Gain a free [Stele of Constitution] [in this city]"
         ],
@@ -66,7 +66,7 @@
         "cost": 20,
         "uniques": [
             "Remove extra unhappiness from annexed cities",
-            "Can only be built [in cities with a [Stele of Constitution]]",
+            "Can only be built [in cities with a Stele of Constitution]",
             "Destroyed when the city is captured"
         ],
       "requiredTech": "Pioneer Administration"
