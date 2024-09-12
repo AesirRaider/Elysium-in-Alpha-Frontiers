@@ -81,7 +81,7 @@
         "uniqueTo": "Elysium",
         "percentStatBonus": { "culture": 15 },
         "culture": 1,
-        "specialistSlots": { "Great Influencer": 1 },
+        "greatPersonPoints": { "Great Influencer": 1 },
         "maintenance": 1,
         "requiredTech": "Pioneer Administration"
       "civilopediaText": [
