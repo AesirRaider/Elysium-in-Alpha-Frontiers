@@ -5,11 +5,9 @@
         "isWonder": true,
         "uniqueTo": "Elysium",
         "cost": 1,
-        "uniques": [
-            "Can only be built <in [in capital] cities>",
+        "uniques": ["Can only be built <in [in capital] cities>",
             "[+1 Culture] from every specialist [in this city]",
-            "Gain a free [Stele of Constitution] [in this city]"
-        ],
+            "Gain a free [Stele of Constitution] [in this city]"],
         "quote": "Our Constitution was made only for a moral and religious people. It is wholly inadequate to the government of any other.- John Adams",
         "civilopediaText": [
             {
@@ -20,8 +18,6 @@
             }
         ]
     },
-
-    // Normal Uniques
     {
         "name": "Parliament",
 	"isWonder": true,
@@ -31,16 +27,11 @@
         "uniques": [
             "[+1 Culture] per [4] population [in all cities]",
             "[-50]% Unhappiness from [Population] [in all cities connected to capital]",
-            "Can only be built [in capital]"]
+            "Can only be built <in [in capital] cities>"]
       "quote":"Machiavelli's teaching would hardly have stood the test of Parliamentary government, for public discussion demands at least the profession of good faith. -John Dalberg-Acton"
-    
-    
-     "civilopediaText": [
-            {
-                "text": "The main legislative and governmental body of Elysium. It derives its power from the Constitution of Elysium."
-            }
-		]
-        "name": "Stele of Constitution",
+    "civilopediaText": [{"text": "The main legislative and governmental body of Elysium. It derives its power from the Constitution of Elysium."}]
+        
+	"name": "Stele of Constitution",
 	"isWonder": false,
         "replaces": "Memorial",
         "uniqueTo": "Elysium",
