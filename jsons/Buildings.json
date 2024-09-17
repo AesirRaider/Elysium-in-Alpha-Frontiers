@@ -29,7 +29,7 @@
         "cost": 100,
         "requiredTech": "Colony Administration",
         "uniques": [
-            "[+1 Culture] per [4] population [{in all cities}]",
+            "[+1 Culture] per [4] population [in all cities]",
             "[-50]% Unhappiness from [Population] [in all cities connected to capital]",
             "Can only be built [in capital]"]
       "quote":"Machiavelli's teaching would hardly have stood the test of Parliamentary government, for public discussion demands at least the profession of good faith. -John Dalberg-Acton"
