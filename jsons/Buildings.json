@@ -41,6 +41,7 @@
             }
 		]
         "name": "Stele of Constitution",
+	"isWonder": false,
         "replaces": "Memorial",
         "uniqueTo": "Elysium",
         "culture": 2,
@@ -59,6 +60,7 @@
     },
     {
         "name": "Court",
+	"isWonder": false,
         "replaces": "Proxy Office",
         "uniqueTo": "Elysium",
         "hurryCostModifier": -25,
@@ -78,6 +80,7 @@
     },
     {
         "name": "Refugee Center",
+	"isWonder": false,
         "uniqueTo": "Elysium",
         "percentStatBonus": { "culture": 15 },
         "culture": 1,
