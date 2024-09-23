@@ -25,8 +25,8 @@
         "cost": 100,
         "requiredTech": "Colony Administration",
         "uniques": [
-            "[+1 Culture] per [4] population [in all cities]",
-            "[-50]% Unhappiness from [Population] [in all cities connected to capital]",
+            "[+1 Culture] per [4] population <in [in all cities] cities>",
+            "[-50]% Unhappiness from [Population] <in [in all cities connected to capital] cities>",
             "Can only be built <in [in capital] cities>"]
       "quote":"Machiavelli's teaching would hardly have stood the test of Parliamentary government, for public discussion demands at least the profession of good faith. -John Dalberg-Acton"
     "civilopediaText": [{"text": "The main legislative and governmental body of Elysium. It derives its power from the Constitution of Elysium."}]
