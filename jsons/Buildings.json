@@ -20,7 +20,6 @@
     },
     {
         "name": "Parliament",
-	"isWonder": true,
         "uniqueTo": "Elysium",
         "cost": 100,
         "requiredTech": "Colony Administration",
