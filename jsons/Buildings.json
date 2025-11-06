@@ -57,7 +57,7 @@
         "culture": 1,
         "cost": 20,
         "uniques": [
-            "Remove extra unhappiness from annexed cities",
+            "Removes extra unhappiness from annexed cities",
             "Can only be built <in [in all cities with a garrison] cities>",
             "Destroyed when the city is captured"
         ],
